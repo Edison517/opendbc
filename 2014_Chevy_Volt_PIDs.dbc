@@ -39,6 +39,9 @@ BU_: XXX
 BO_ 241 NEW_MSG_1: 8 XXX
  SG_ Brake_Pedal_Pressure : 15|8@0+ (1,0) [0|40] "" XXX
 
+BO_ 201 NEW_MSG_2: 8 XXX
+ SG_ Accelerator_Pedal : 39|8@0+ (1,0) [0|255] "" XXX
+
 
 
 
